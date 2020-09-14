@@ -8,6 +8,7 @@ while True :
         else:
             started = True
             print("Car started ! Ready to go !!")
+            print("Car started ! Ready to go !!")
     elif task == "stop":
         if not started :
             print("Car is already stopped!!")
